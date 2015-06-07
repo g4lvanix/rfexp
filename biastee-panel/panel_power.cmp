@@ -1,0 +1,10 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-21 BZR 5674)-product   date = Sun 07 Jun 2015 10:40:38 AM CEST
+
+BeginCmp
+TimeStamp = /55740363;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+EndListe
