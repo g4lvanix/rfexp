@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-21 BZR 5674)-product   date = Sat 06 Jun 2015 08:24:02 PM CEST
+
+BeginCmp
+TimeStamp = /555E4498;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /555E3C5D;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /555E357F;
+Reference = C3;
+ValeurCmp = 1nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /555E3528;
+Reference = C4;
+ValeurCmp = 100pF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55733F3C;
+Reference = C5;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5572F374;
+Reference = CON1;
+ValeurCmp = DC;
+IdModule  = devthrash:JACK_DC;
+EndCmp
+
+BeginCmp
+TimeStamp = /55733D45;
+Reference = D1;
+ValeurCmp = PWR;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /555E3664;
+Reference = L1;
+ValeurCmp = 10uH;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /555E335B;
+Reference = P1;
+ValeurCmp = ANT;
+IdModule  = devthrash:SMA-BU-P_EdgeMount;
+EndCmp
+
+BeginCmp
+TimeStamp = /555E33D8;
+Reference = P2;
+ValeurCmp = RX;
+IdModule  = devthrash:SMA-BU-P_EdgeMount;
+EndCmp
+
+BeginCmp
+TimeStamp = /555E3FB9;
+Reference = R1;
+ValeurCmp = 0;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /555E3B39;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /555E3B02;
+Reference = R3;
+ValeurCmp = 220;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55733E25;
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /555E3AA1;
+Reference = U1;
+ValeurCmp = LM317AEMP;
+IdModule  = SMD_Packages:SOT-223;
+EndCmp
+
+EndListe

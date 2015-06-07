@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name devthrash)(type KiCad)(uri /home/devthrash/Documents/Projects/hardware/kilibs.pretty)(options "")(descr ""))
+)
