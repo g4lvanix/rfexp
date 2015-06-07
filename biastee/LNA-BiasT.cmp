@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-05-21 BZR 5674)-product   date = Sat 06 Jun 2015 08:24:02 PM CEST
+Cmp-Mod V01 Created by Cvpcb (2015-05-21 BZR 5674)-product   date = Sun 07 Jun 2015 05:54:20 PM CEST
 
 BeginCmp
 TimeStamp = /555E4498;
@@ -33,6 +33,27 @@ TimeStamp = /55733F3C;
 Reference = C5;
 ValeurCmp = 1uF;
 IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5574826E;
+Reference = C6;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55748232;
+Reference = C7;
+ValeurCmp = 1nF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /557481E1;
+Reference = C8;
+ValeurCmp = 100pF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
 EndCmp
 
 BeginCmp
