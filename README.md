@@ -9,3 +9,4 @@ Currently the repo contains hardware files for the following peripherals:
 - universal front panel with SMA jack and power indicator LED
 - Coax line power injector/bias-tee
 - Minicircuits PSA4-5043+ based LNA
+- An active HF antenna based on the PA0RDT MiniWhip design
