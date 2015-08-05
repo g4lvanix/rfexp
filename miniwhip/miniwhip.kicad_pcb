@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew "(2015-05-21 BZR 5674)-product")
+(kicad_pcb (version 4) (host pcbnew "(2015-07-09 BZR 5919)-product")
 
   (general
     (links 26)
@@ -634,7 +634,7 @@
     )
   )
 
-  (gr_text "PA0RDT MiniWhip Rev. A\n2015 devthrash\n" (at 134 91) (layer F.Mask)
+  (gr_text "PA0RDT MiniWhip Rev. A\n2015 g4lvanix" (at 134 91) (layer F.Mask)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 151 118) (end 146 118) (angle 90) (layer Edge.Cuts) (width 0.1))
